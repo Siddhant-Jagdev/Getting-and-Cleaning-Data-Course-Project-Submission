@@ -10,7 +10,7 @@
 The source data are from the Human Activity Recognition Using Smartphones Data Set. A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones Here are the data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 About R script
 
-## File with R code "run_analysis.R" performs the 5 following steps (in accordance assigned task of course work):
+## File with R code "run_analysis.R" performs the 5 following steps (in accordance to the assigned task of the course work):
 
     Reading in the files and merging the training and the test sets to create one data set.
     1.1 Reading files
