@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project-Submission
-Files:
+## Files:
 
 CodeBook.md describes how to use all the variables, the data, and any transformations or work that has been performed to clean up the data given.
 
